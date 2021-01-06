@@ -4,6 +4,13 @@ I am **Md Manzer Alam**. Sherlock6147 is my github handle. As the name suggests 
 
 ### More things about me
 
-* I am learning ... Html + CSS + Javascript Web dev Workflow
-* I am good in ... C++.
-* Feel free to ask me any questions on ... C++.
+* I am learning 
+  1. Kotlin
+  2. Javascript
+  3. C
+  4. C++
+  5. HTML & CSS 
+* I am good in
+  1. C++
+  2. Kotlin 
+  3. Design
