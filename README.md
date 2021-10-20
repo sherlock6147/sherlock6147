@@ -45,6 +45,6 @@
 <a align="right" href="https://www.linkedin.com/in/md-manzer-alam-0ba00280/"><img algin="right" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"></a> </h3>
 
 <a href="https://github.com/sherlock6147">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherlock6147&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock6147&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherlock6147&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock6147&theme=dark&layout=compact" />
 </a>
