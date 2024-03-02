@@ -11,38 +11,10 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Md_Manzer_Alam-4af?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-manzer-alam-0ba00280/)](https://www.linkedin.com/in/md-manzer-alam-0ba00280/)
 ![GitHub followers](https://img.shields.io/github/followers/sherlock6147?label=Follow&style=social)
 
-```terminal
- sherlock6147 --json
-``` 
-<img align="left" src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="40"> 
-
-```json
-{
-    name: "Md Manzer Alam",
-    pronouns: "He" | "Him" | "His",
-    code: ["Javascript", "C Programming", "Python", "C++", "Kotlin", "Dart", "SQL"],
-    askMeAbout: ["web dev", "tech", "developing projects", "javascript","sql","python"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla"],
-            css: ["css3", "scss", "bootstrap","sass"]
-        },
-        backEnd: {
-            python: ["django"]
-        },
-        android: {
-          languages: ["kotlin","dart","flutter"]
-        },
-        databases: ["sqlite","mongodb"],
-        misc: ["open-cv", "netlify" , "heroku" , "git" ,"github" ,"vs-code" ,"sublime","linux"]
-    },
-    currentLearning: "DSA",
-    currentProject: "I’m currently working on EDC Website and my side projects",
-    funFact: "feel stuck with your code go to r/ProgrammerHumor"
-};
-```
 <h3><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 
 <a align="right" href="https://www.linkedin.com/in/md-manzer-alam-0ba00280/"><img algin="right" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"></a> </h3>
+<a href="https://app.daily.dev/sherlock6147"><img src="https://api.daily.dev/devcards/v2/N1HnVGR0Vfkw2tU0HXtr3.png?type=default&r=hf3" width="356" alt="Md.Manzer Alam's Dev Card"/></a>
+
 
 <a href="https://github.com/sherlock6147">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherlock6147&theme=dark&show_icons=true" />
