@@ -1,5 +1,5 @@
 <h1>Hello 👋, I am Md Manzer Alam!  <img align="right" styles="top:0px;right:0;" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="50"></h1>
-<h2>Coder, Entrepreneurship Enthusiast, Finance Geek</h2>
+<h2>Software Engineer @ Convai | Building Real-Time Conversational AI Platforms & Infrastructure | Python • Golang • Kubernetes • DevOps</h2>
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 <h3><em>ECE SOPHOMORE at  <a href="http://www.nitdgp.ac.in">National Institute of Technology, Durgapur, India</a>
 </em></h3>
