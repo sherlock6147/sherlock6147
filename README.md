@@ -1,49 +1,49 @@
-<h1>Hey 👋 I'm Md Manzer Alam</h1>
+## 🚀 Building real-time AI agents & LLM systems at scale
 
-<h3>
-🚀 Software Engineer @ Convai <br/>
-🧠 Building Real-Time AI Agents, LLM Systems & FaaS Infrastructure <br/>
-⚡ Python • Go • Distributed Systems • WebRTC • Kubernetes
-</h3>
+**Software Engineer @ Convai**  
+Working on FaaS, tool execution, and low-latency AI infrastructure  
 
----
-
-### 🧩 What I Do
-- Build **real-time conversational AI systems** powering interactive agents
-- Design **Functions-as-a-Service (FaaS)** platforms for dynamic tool execution
-- Work on **LLM agents, tool calling, and orchestration pipelines**
-- Scale **low-latency infra** for streaming, execution, and AI interactions
+**Python • Go • Distributed Systems • WebRTC • Kubernetes**
 
 ---
 
-### 🛠️ Tech I Work With
+### 🧠 What I Build
+- Real-time conversational AI systems with low-latency streaming  
+- Functions-as-a-Service (FaaS) for dynamic LLM tool execution  
+- Agent orchestration pipelines (tool calling, execution, state management)  
+- Scalable infrastructure for interactive AI experiences (WebRTC, autoscaling)  
+
+---
+
+### ⚙️ Selected Work
+- Built real-time, low-latency multimodal AI agents using WebRTC for live interaction
+- Architected an in-house FaaS platform for AI agent tool execution  
+- Built a stateful autoscaler for real-time pixel streaming systems  
+- Designed APIs powering interactive AI experiences over live streams  
+- Handled production-scale data migrations for backend systems  
+
+---
+
+### 🛠️ Tech Stack
 - **Languages:** Python, Go, TypeScript  
-- **AI/LLMs:** RAG, Agent Architectures, Tool Calling, Prompt Systems  
-- **Infra:** Kubernetes, WebRTC, Distributed Systems, Autoscaling  
+- **AI/LLMs:** RAG, Agent Architectures, Tool Calling  
+- **Infra:** Kubernetes, Distributed Systems, WebRTC  
 - **Backend:** FastAPI, gRPC, Event-driven systems  
 
 ---
 
-### ⚙️ Notable Work
-- 🧠 Architected an **in-house FaaS platform** for AI agent tool execution  
-- 🎥 Built **stateful autoscaling systems** for real-time pixel streaming  
-- 🔌 Designed APIs for **interactive AI experiences over live streams**  
-- 📦 Worked on **data migrations & scalable backend systems**
+### 🌱 Current Focus
+- Advanced LLM agent architectures  
+- Real-time AI infrastructure  
+- Building production-grade AI systems (not just demos)  
 
 ---
 
-### 🌱 Current Focus
-- Advanced **LLM agent architectures**
-- **Low-latency AI infra** (real-time + streaming)
-- Building systems that go from **prototype → production at scale**
+### ⚡ Philosophy
+I build systems that actually run in production — not just prototypes.
 
 ---
 
 ### 📫 Reach Out
-- 💼 <a href="https://www.linkedin.com/in/md-manzer-alam-0ba00280/">LinkedIn</a>
-- 📧 tooshort9541@gmail.com
-
----
-
-### ⚡ Fun Fact
-I like building things that *actually run in production*, not just demos.
+- 💼 LinkedIn: https://www.linkedin.com/in/md-manzer-alam-0ba00280/  
+- 📧 Email: 18preneur@gmail.com
